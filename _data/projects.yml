@@ -2,15 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # probot
-- project: probot
-  role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
+- project: Currency converter (Console project)
+  role: Developer
+  duration: Mart, 2020
+  url: "https://github.com/KonstantinOrlovsky/CleverCurrencyConverter"
+  description: Implemented the ability to extract data from DB, Bank API, json and xml files via abstraction 
 
 # GitHub Classroom
-- project: GitHub Classroom
-  role: Contributor
-  duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+- project: Registration employees (Web project)
+  role: Developer
+  duration: May, 2020
+  url: "https://github.com/KonstantinOrlovsky/MVC-with-ADO.Net"
+  description: MVC, 3-Tier Architecture, used pure ADO.NET
